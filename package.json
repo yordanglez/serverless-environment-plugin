@@ -1,0 +1,20 @@
+{
+  "name": "serverless-environments-plugin",
+  "version": "0.0.1",
+  "description": "Serverless plugin to export environments",
+  "main": "index.js",
+  "author": "Yordano Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "jquery": "^3.2.1",
+    "jsdom": "^15.0.0",
+    "lodash": "^4.17.5",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
